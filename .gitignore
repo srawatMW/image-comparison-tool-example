@@ -1,0 +1,35 @@
+# MATLAB autosave and temporary files
+*.asv
+*.m~
+*.autosave
+
+# Simulink autosave
+*.slx.r*
+*.mdl.r*
+
+# P-code
+*.p
+
+# MEX files
+*.mex*
+
+# Packaged app/toolbox installers
+*.mlappinstall
+*.mltbx
+
+# Generated helpsearch
+helpsearch*/
+
+# Simulink code generation
+slprj/
+sccprj/
+codegen/
+
+# Simulink cache
+*.slxc
+
+# MATLAB Drive
+.MATLABDriveTag
+
+# Build tool
+.buildtool/
